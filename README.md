@@ -1,4 +1,4 @@
-## Custom Made Ray Tracing Engine
+## Custom-Made Ray Tracing Engine
 
 Simple ray tracing engine built exclusively for fun to render my github logo.
 After creating an Engine object, you can append objects defined in geo_objects.py to the scene.
